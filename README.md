@@ -22,7 +22,9 @@ The agent has no knowledge of the environment. Values are 0.0, and the initial p
 ### 2. Converged State (Optimal Policy)
 After running iterations, the values propagate from the Goal (+10) and Trap (-10). The arrows show the optimal path, navigating around obstacles and avoiding the trap due to stochastic transitions.
 
-![Converged State](screenshots/converged_state.png)
+![Converged State](coverage_state_1.png)
+![Converged State](coverage_state_2.png)
+![Converged State](coverage_state_3.png)
 
 ---
 
