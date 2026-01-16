@@ -51,5 +51,6 @@ Ensure you have Python installed.
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/MDP-GridWorld-Viz.git](https://github.com/YOUR_USERNAME/MDP-GridWorld-Viz.git)
-cd MDP-GridWorld-Viz
+git clone https://github.com/HamzaNadeem9910/Markov-Decision-Processes-visualization.git
+cd Markov-Decision-Processes-visualization
+
