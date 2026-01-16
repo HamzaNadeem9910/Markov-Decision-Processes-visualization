@@ -34,11 +34,11 @@ After running iterations, the values propagate from the Goal (+10) and Trap (-10
 * **Stochastic Transitions:** Movement is not guaranteed. The agent has an 80% chance of moving as intended and a 20% chance of slipping sideways.
 * **Algorithm Selection:** Toggle seamlessly between **Value Iteration** and **Policy Iteration** to compare their behaviors.
 * **Interactive Controls:**
-    * **Discount Factor Slider ($\gamma$):** Adjust $\gamma$ between 0.1 (myopic) and 0.99 (far-sighted) in real-time.
+    * **Discount Factor Slider ($\gamma$):** Adjust gamma between 0.1 (myopic) and 0.99 (far-sighted) in real-time.
     * **Step-by-Step Execution:** Watch how state values update and policies evolve with every click.
 * **Clear Visualizations:**
-    * **Heatmap:** Color-coded grid showing the computed Value ($V(s)$) of each state.
-    * **Policy Arrows:** Directional indicators showing the optimal action ($\pi(s)$) to take in each state.
+    * **Heatmap:** Color-coded grid showing the computed Value (V(s)) of each state.
+    * **Policy Arrows:** Directional indicators showing the optimal action (pi(s)) to take in each state.
 
 ---
 
